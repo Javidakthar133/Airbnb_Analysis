@@ -34,5 +34,5 @@ Data Cleaning and Preparation: Airbnb dataset was preprocessed by handling missi
 Geospatial Visualization: The geospatial data from the Airbnb dataset is used to create interactive folium maps. The distribution of listings across different locations are visualized allowing users to explore prices, ratings, and other relevant factors.
 Analysis and Visualization: Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons.
 Dashboard Creation:PowerBI is used to create a comprehensive dashboard that presents key insights from analysis.
-###PowerBI Dashboard
+PowerBI Dashboard
 ![image](https://github.com/user-attachments/assets/ace2a1b6-361c-4e6d-a574-282e2fff2de6)
