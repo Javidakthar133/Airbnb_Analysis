@@ -1,5 +1,4 @@
-### Airbnb_Analysis
-
+AirBnb_Analysis
 SUMMARY
 This project is focused on analyzing Airbnb data using MongoDB Atlas, conducting data cleaning and preparation, crafting interactive geospatial visualizations, and generating dynamic plots to uncover insights regarding pricing fluctuations, availability trends, and location-specific patterns.
 
@@ -28,11 +27,12 @@ Plotly
 Folium
 PowerBI
 Streamlit
-###Project Approach:
+Project Approach:
 MongoDB Connection and Data Retrieval: A connection to the MongoDB Atlas database was established and sample Airbnb data was retrieved.
 Data Cleaning and Preparation: Airbnb dataset was preprocessed by handling missing values, removing duplicates, transforming necessary datatypes and replacing the country codes for choropleth visualizations.
 Geospatial Visualization: The geospatial data from the Airbnb dataset is used to create interactive folium maps. The distribution of listings across different locations are visualized allowing users to explore prices, ratings, and other relevant factors.
 Analysis and Visualization: Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons.
 Dashboard Creation:PowerBI is used to create a comprehensive dashboard that presents key insights from analysis.
+
 PowerBI Dashboard
 ![image](https://github.com/user-attachments/assets/ace2a1b6-361c-4e6d-a574-282e2fff2de6)
